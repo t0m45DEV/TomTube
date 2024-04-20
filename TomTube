@@ -1,0 +1,10 @@
+echo "---------------------------------------------"
+
+python3 /home/t0m45/Documents/"Codes and Scripts"/TomTube/TomTube_Functions.py
+
+audioconvert convert /home/t0m45/Downloads /home/t0m45/Downloads > /dev/null 2>&1;
+
+rm /home/t0m45/Downloads/*m4a > /dev/null 2>&1;
+
+echo "---------------------------------------------"
+
